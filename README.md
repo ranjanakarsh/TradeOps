@@ -153,4 +153,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Ranjan Akarsh - [GitHub](https://github.com/ranjanakarsh)
+Ranjan Akarsh - [Instagram](https://instagram.com/ranjanakarsh)
