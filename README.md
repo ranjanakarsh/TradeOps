@@ -154,37 +154,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 Ranjan Akarsh - [GitHub](https://github.com/ranjanakarsh)
-
-## Configuration
-
-1. Create `.streamlit/secrets.toml`:
-```toml
-[database]
-host = "localhost"
-port = 5432
-database = "tradeops"
-user = "postgres"
-password = "your_password"
-
-[api]
-base_url = "http://localhost:8000/api/v1"
-
-[app]
-environment = "development"
-```
-
-2. Configure `.streamlit/config.toml`:
-```toml
-[theme]
-primaryColor = "#00ff00"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#262730"
-textColor = "#fafafa"
-font = "sans serif"
-```
-
-## Deployment
-
-The application is deployed on Streamlit Cloud:
-- Frontend: https://share.streamlit.io/ranjanakarsh/tradeops/main/app/frontend.py
-- Backend: [Your Backend URL] 
